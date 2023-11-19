@@ -63,4 +63,4 @@ jobs:
           app-name: 'apipiainterfaces'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_446ED4FCB4574C2D9A3CAC74B9BE41D6 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_349B945984B44330BB28561815793968 }}
